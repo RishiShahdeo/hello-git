@@ -1,2 +1,3 @@
 # hello-git
-my first repository
+
+Edit the new branch in this commit which is the first commit.
